@@ -1,41 +1,41 @@
-# electoral-votes-arraylist
+# arraylist-election-votes
 
 
-# README - Programma di Conteggio dei Voti
+# README - Vote Counting Program
 
-## Definizione
-Questo programma Java è stato sviluppato per registrare i voti e restituire a schermo l'elenco delle persone che hanno votato e il totale dei votanti che hanno partecipato. È utile in situazioni in cui è necessario condurre un conteggio dei voti e visualizzare rapidamente chi ha partecipato.
+##Definition
+This Java program was developed to record votes and restore the list of people who voted and the total number of voters who participated on the screen. It is useful in situations where you need to conduct a vote count and quickly see who has participation.
 
-## Utilizzo
-### Compilazione
-Per compilare il programma, segui i passaggi seguenti:
+## Usage
+### Compilation
+To compile the program, follow the steps below:
 
-1. Assicurati di avere Java JDK installato sulla tua macchina.
+1. Make sure you have Java JDK installed on your machine.
 
-2. Apri il terminale.
+2. Open terminal.
 
-3. Naviga nella directory in cui è presente il file sorgente del programma Java, ad esempio, "Main.java".
+3. Navigate to the directory where the Java program source file is located, for example, "Main.java".
 
-4. Esegui il comando di compilazione:
-   ```bash
-   javac NomeDelProgramma.java
+4. Run the compile command:
+   "bash."
+   javac ProgramName.java
    
-Esecuzione
-Dopo aver compilato il programma, puoi eseguirlo come segue:
+Execution
+After compiling the program, you can run it as follows:
 
-1.Nel terminale, esegui il comando:
-java Main
+1.In terminal, run the command:
+main java
 
-2.Il programma richiederà l'inserimento dei nomi delle persone che hanno votato. Inserisci i nomi uno per uno e premi Invio dopo ciascun nome. Per interrompere l'inserimento, premi Invio senza inserire un nome.
+2.The program will require you to enter the names of the people who voted. Enter the names one by one and press Enter after each name. To stop inserting, press Enter without entering a name.
 
-3.Il programma stamperà a schermo l'elenco delle persone che hanno votato e il totale dei votanti che hanno partecipato.
-
-
-
-Requisiti
-Java JDK installato sulla tua macchina.
-Contributi
-Siamo aperti a contributi e miglioramenti per questo programma. Se desideri partecipare, puoi aprire una pull request.
+3.The program will print on the screen the list of people who voted and the total number of voters who participated.
 
 
-Personalizza il file README con il nome del tuo programma Java e altre informazioni specifiche se necessario. Questo formato fornisce una chiara definizione del programma, istruzioni sull'esecuzione e altre informazioni importanti.
+
+Requirements
+Java JDK installed on your machine.
+Contribute
+We are open to contributions and improvements to this program. If you would like to participate, you can open a pull request.
+
+
+Customize the README file with the name of your Java program and other specific information if necessary. This format provides a clear program definition, execution instructions, and other important information.
